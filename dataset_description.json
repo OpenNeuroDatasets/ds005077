@@ -13,7 +13,10 @@
     ],
     "Acknowledgements": "We thank Dr. Koji Toda for his comments on awake optogenetic stimulation, Dr. Katsuhiko Miyazaki for his comments on protocol of optogenetic stimulation, Dr. Keigo Hikishima for his comments on fMRI, and Mr. Yoshiaki Ohba for creation of acclimation tools. We thank Dr. Jiafu Zeng for animal support for MRI acquisition. We also acknowledge Prof. Grandjean for his support in replicating results from a CBV fMRI dataset. ",
     "HowToAcknowledge": "",
-    "Funding": [],
+    "Funding": [
+        " Moonshot R&D from the Japan Science and Technology Agency (JST), Japan, grant PMJMS2295 ",
+        "grant-in-aid from the Japan Society for the Promotion of Science (JSPS), Japan, grant JP19KK0387"
+    ],
     "EthicsApprovals": [],
     "ReferencesAndLinks": [],
     "DatasetDOI": "doi:10.18112/openneuro.ds005077.v1.0.1",

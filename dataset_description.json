@@ -2,8 +2,10 @@
     "Name": "optofMRI_DRN",
     "BIDSVersion": "1.9.0",
     "DatasetType": "raw",
-    "License": "",
-    "Authors": [],
+    "License": "CC0",
+    "Authors": [
+        "Hiro Taiyo Hamada"
+    ],
     "Acknowledgements": "We thank Dr. Koji Toda, Dr. Katsuhiko Miyazaki, Dr. Keigo Hikishima, Mr. Yoshiaki Ohba, Dr. Jiafu Zeng, and Prof. Grandjean for their support on this work.",
     "HowToAcknowledge": "",
     "Funding": [],

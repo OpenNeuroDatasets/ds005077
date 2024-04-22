@@ -24,7 +24,9 @@
         "the Naito Foundation, Japan (to H.T.H.)",
         "Okinawa Institute of Science and Technology Graduate University"
     ],
-    "EthicsApprovals": [],
+    "EthicsApprovals": [
+        "Okinawa Institute of Science and Technology"
+    ],
     "ReferencesAndLinks": [],
     "DatasetDOI": "",
     "SourceDatasets": [],

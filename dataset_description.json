@@ -2,24 +2,14 @@
     "Name": "optofMRI_DRN",
     "BIDSVersion": "1.9.0",
     "DatasetType": "raw",
-    "License": "CC0",
-    "Authors": [
-        "Hiro Taiyo Hamada",
-        "Yoshifumi Abe",
-        "Norio Takata",
-        "Masakazu Taira",
-        "Kenji F. Tanaka",
-        "Kenji Doya"
-    ],
-    "Acknowledgements": "We thank Dr. Koji Toda for his comments on awake optogenetic stimulation, Dr. Katsuhiko Miyazaki for his comments on protocol of optogenetic stimulation, Dr. Keigo Hikishima for his comments on fMRI, and Mr. Yoshiaki Ohba for creation of acclimation tools. We thank Dr. Jiafu Zeng for animal support for MRI acquisition. We also acknowledge Prof. Grandjean for his support in replicating results from a CBV fMRI dataset. ",
+    "License": "",
+    "Authors": [],
+    "Acknowledgements": "We thank Dr. Koji Toda, Dr. Katsuhiko Miyazaki, Dr. Keigo Hikishima, Mr. Yoshiaki Ohba, Dr. Jiafu Zeng, and Prof. Grandjean for their support on this work.",
     "HowToAcknowledge": "",
-    "Funding": [
-        " Moonshot R&D from the Japan Science and Technology Agency (JST), Japan, grant PMJMS2295 ",
-        "grant-in-aid from the Japan Society for the Promotion of Science (JSPS), Japan, grant JP19KK0387"
-    ],
+    "Funding": [],
     "EthicsApprovals": [],
     "ReferencesAndLinks": [],
-    "DatasetDOI": "doi:10.18112/openneuro.ds005077.v1.0.1",
+    "DatasetDOI": "",
     "SourceDatasets": [],
     "GeneratedBy": [
         {

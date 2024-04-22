@@ -8,7 +8,9 @@
     ],
     "Acknowledgements": "We thank Dr. Koji Toda, Dr. Katsuhiko Miyazaki, Dr. Keigo Hikishima, Mr. Yoshiaki Ohba, Dr. Jiafu Zeng, and Prof. Grandjean for their support on this work.",
     "HowToAcknowledge": "",
-    "Funding": [],
+    "Funding": [
+        "Moonshot R&D from the Japan Science and Technology Agency (JST), Japan, grant PMJMS2295 (to H.T.H.)"
+    ],
     "EthicsApprovals": [],
     "ReferencesAndLinks": [],
     "DatasetDOI": "",
